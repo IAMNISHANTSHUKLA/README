@@ -1,7 +1,6 @@
-Hi, I’m Nishant Shukla
+Hi, I’m Nishant Shukla.
  I’m interested in learning & exploring as a freshman CS undergrad.
- I’m currently learning python.
- I’m looking to collaborate on small python projects.
+ I’m currently learning python & look forward to collaborate on projects in python.
  Contact me @ nishantshukla2004@gmail.com
 
 <!---
