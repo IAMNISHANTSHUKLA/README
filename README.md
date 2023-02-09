@@ -1,5 +1,5 @@
 Hi, I’m Nishant Shukla.
- I’m interested in learning & exploring as a freshman CS undergrad.
+ I’m interested in learning & exploring as a freshman year CS undergrad.
 
  Contact me @ nishantshukla2004@gmail.com
 
